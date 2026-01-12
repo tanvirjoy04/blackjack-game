@@ -1,2 +1,2 @@
-# Build a Blackjack Game
+# Blackjack Game
 Project aimed for Advanced Students learning javascript.
