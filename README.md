@@ -15,3 +15,6 @@ where I can use
 Math.ceil( Math.random()*13 )
 ```
 ? - > No, you can’t just use Math.ceiling() because the range from Math.random is [0,1). That means it includes 0 but not 1. On the extremely rare chance you roll a 0
+
+
+[Source Link](https://www.codecademy.com/forum_questions/4f35e646fe0083000301a5e5#4f4aca1c930c6d00030089f8)
